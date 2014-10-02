@@ -878,11 +878,11 @@ msgstr "Завершено"
 
 #: templates/shop/checkout.html:48
 msgid "Edit Cart"
-msgstr "Редактирова корзину"
+msgstr "Редактировать корзину"
 
 #: templates/shop/checkout.html:61
 msgid "Please correct the errors below."
-msgstr "Пожалуста, исправьте следующие ошибки"
+msgstr "Пожалуйста, исправьте следующие ошибки"
 
 #: templates/shop/checkout.html:73
 msgid "Next"
@@ -899,15 +899,15 @@ msgstr "Ваша корзина пуста."
 #: templates/shop/checkout.html:81
 msgid ""
 "This may be due to your session timing out after a period of inactivity."
-msgstr ""
+msgstr "Это могло произойти по причине продолжительного бездействия на сайте"
 
 #: templates/shop/checkout.html:82
 msgid "We apologize for the inconvenience."
-msgstr ""
+msgstr "Приносим извинения за доставленные неудобства"
 
 #: templates/shop/checkout.html:84 templates/shop/wishlist.html:40
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Вернуться в магазин"
 
 #: templates/shop/complete.html:4 templates/shop/complete.html.py:61
 msgid "Order Complete"
